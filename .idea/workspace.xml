@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2eaa16f5-a926-4df1-939b-d8bf1c3e2aac" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/jmeter/ReqRes.jmx" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/jmeter/ReqRes.jmx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/jmeter/bin/jmeter.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/jmeter/bin/jmeter.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/jmeter/bin/saveservice.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/jmeter/bin/saveservice.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/jmeter/bin/system.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/jmeter/bin/system.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/jmeter/bin/upgrade.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/jmeter/bin/upgrade.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/jmeter/logs/SOAP_Jmeter.jmx.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/jmeter/results/20200520-SOAP_Jmeter.jtl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/jmeter/testFiles/SOAP_Jmeter.jmx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mavenJmeter-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/mavenJmeter-1.0-SNAPSHOT.jar" afterDir="false" />
-    </list>
+    <list default="true" id="2eaa16f5-a926-4df1-939b-d8bf1c3e2aac" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -195,17 +181,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="947" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32982457" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32982457" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
