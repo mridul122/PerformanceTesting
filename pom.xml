@@ -32,6 +32,18 @@
                         </goals>
                     </execution>
                 </executions>
+                <configuration>
+<!--                    <propertiesUser>-->
+<!--                        <threads>${threadCount}</threads>-->
+<!--                        <rampup>${rampup}</rampup>-->
+<!--                        <duration>${durationSecond}</duration>-->
+<!--                    </propertiesUser>-->
+                    <testFilesIncluded>
+                        <jMeterTestFile>ReqRes.jmx</jMeterTestFile>
+                        <generateReports>true</generateReports>
+                    </testFilesIncluded>
+
+                </configuration>
             </plugin>
         </plugins>
     </build>

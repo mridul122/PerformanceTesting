@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testResults version="1.2">
-<httpSample t="0" it="0" lt="0" ct="0" ts="1590005253659" s="false" lb="HTTP Request" rc="Non HTTP response code: java.net.URISyntaxException" rm="Non HTTP response message: Expected closing bracket for IPv6 address at index 13: http://[http://10.30.20.15:8080]/CMECUpdClientDetailsEPortalESBWeb/sca/CMECUpdateClientDetailsWebServiceExport" tn="Thread Group 1-1" dt="text" by="1312" sby="0" ng="1" na="1"/>
-
-</testResults>
