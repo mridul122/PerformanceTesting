@@ -1,0 +1,4 @@
+/target
+/src/test/jmeter/tmp
+.DS_Store
+.idea
